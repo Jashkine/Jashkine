@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jashkine
-- 👀 I’m interested in Speech processing, Computer Vision, Natural Language Processing, Machine Learning, Data Analytics
-- 🌱 I’m currently learning python, Deep Learning, NLP, kivy, kivyMD
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Soni.
+- 👀 I’m interested in Speech processing, Computer Vision, Natural Language Processing, Machine Learning, Data Analytics, Cloud Computing, MLOps
+- 🌱 I’m currently learning Python, Deep Neural Network, NLP, kivy, kivyMD
+- 💞️ I’m looking to collaborate on projects related to Machine Learning
 - 📫 You can reach me at jaskine36@gmail.com
 
 <!---
